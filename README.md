@@ -1,7 +1,7 @@
 # parse-key-value-file-for-bash-script
 
 Parsing key-value variables from config file in Bash.
-It may trim spaces on key or value.
+It may also trim spaces on key or value.
 
 ### Example
 
